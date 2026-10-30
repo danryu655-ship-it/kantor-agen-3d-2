@@ -1,0 +1,1 @@
+{"description":"Kantor Konten 3D Nihongo Santai - kode platform tahap 1 (backend API tugas/konten/jadwal, tanpa posting otomatis)","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"kantor-agen-3d-platform","private":true,"scripts":{"start":"node server.js"},"type":"commonjs","version":"0.1.0"}
